@@ -1,2 +1,2 @@
 # here4rate
-Turning customer feedback into customer loyalty, increasing sales
+Turning customer feedback into customer loyalty, and increasing sales
